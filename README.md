@@ -1,4 +1,4 @@
-# Hey, I'm Anshvishwa 👋
+# Hey, I'm Ansh 👋
 
 **Python Developer | AI & Systems Enthusiast | Linux & Git Practitioner**
 
@@ -44,15 +44,12 @@ I focus on clean code, practical solutions, and continuous learning.
 
 ---
 
-## 📁 My Projects
-
-Check out my repositories for Python, systems, and AI-related work!
 
 ---
 
 ## 🤝 Let's Connect
 
-Feel free to explore my projects and reach out for collaboration, ideas, or technical discussions!
+Feel free to explore and reach out for collaboration, ideas, or technical discussions!
 
 ---
 
