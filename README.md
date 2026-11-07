@@ -1,56 +1,45 @@
-# Hey, I'm Ansh 👋
+<div align="center">
 
-**Python Developer | AI & Systems Enthusiast | Linux & Git Practitioner**
+<br>
 
-I build things with Python, work with AI, dive into systems, and love working in Linux environments. Always exploring new technologies and solving interesting problems.
+*“loneliness never left me; it stayed with me every time.”*  
+<sub>knowing how to love deeply, never knowing what it feels like to be the certainty.</sub>
 
----
+<br>
+<br>
 
-## 🚀 About Me
+# ansh
+**Python Developer · Systems & Linux · AI Exploration**
 
-Passionate about software development with expertise in:
-- 🐍 **Python** - Building projects, automation, scripting
-- 🤖 **AI & Machine Learning** - Exploring modern AI applications
-- 🔧 **Systems** - System-level programming and architecture
-- 🐧 **Linux** - Command-line, system administration, shell scripting
-- 📦 **Building** - Creating practical solutions from ideas to deployment
+<br>
 
-I focus on clean code, practical solutions, and continuous learning.
+</div>
 
 ---
 
-## 💻 Technical Stack
+### `craft & systems`
 
-**Languages & Focus**
-- Python (Primary)
-- Git & GitHub (Version Control)
-- Linux (Command line & Systems)
-
-**Areas of Interest**
-- Python scripting and automation
-- AI and systems exploration
-- Linux system operations
-- Full-stack development concepts
+```text
+languages       python (primary)
+environment     linux (shell, admin, systems) · git & github
+focus           scripting & automation · ai & machine learning · full-stack concepts
+```
 
 ---
 
-## 🎯 What I'm Working On
+### `about`
 
-- Building Python projects
-- Exploring AI applications
-- Mastering system-level concepts
-- Linux automation and tools
-- Creating practical solutions
+I build things with Python, explore AI applications, and work in Linux environments.  
+Focused on writing clean code, understanding low-level systems, and solving problems without the bloated noise.
 
 ---
 
+### `connect`
 
----
+Down to collaborate on interesting tools and systems.  
+Reach out on [GitHub](https://github.com/ansh-sm) or via [Email](mailto:anshvishwa1212@gmail.com).
 
-## 🤝 Let's Connect
-
-Feel free to explore and reach out for collaboration, ideas, or technical discussions!
-
----
-
-**Building cool stuff with Python, AI, and Systems** 🚀
+<div align="center">
+<br>
+<sub>building in the quiet hours.</sub>
+</div>
